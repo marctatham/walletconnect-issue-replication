@@ -1,0 +1,25 @@
+# Release builds, secrets, etc.
+upload-keystore.jks
+
+# Built application files
+/build
+/release/output.json
+/debug/output.json
+
+# Gradle files
+.gradle/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Log Files
+*.log
+
+# Android Studio captures folder
+captures/
+
+# IntelliJ
+.idea
+
+# OSX
+.DS_Store
